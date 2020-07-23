@@ -1,43 +1,46 @@
-# Lesson Title
-
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
-
-## Learning Goals
-
-- [Check out this Readme on writing Learning Goals][goals]
+# Welcome
 
 ## Introduction
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+Welcome to Flatiron School's Software Engineering course! Over the next 800-1000
+hours you will learn everything you need to know to get started as a Software
+Engineer. It's going to be harder, and more rewarding than any other learning
+experience you've ever had, we promise, but we're thrilled that you've joined
+our community. Let's learn together.
 
-## Contents
+Before diving in, we need to briefly go over a few things. In the next few
+lessons, we'll introduce some of the features of this learning platform and get
+your personal computer set up for the rest of the course (what we refer to as
+_'your local environment'_).
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+In this lesson, though, we'd like to talk on
+philosophy.
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+## Flatiron School's Philosophy
+
+We are comrades in a never-ending quest for knowledge. While there are no
+shortcuts, we believe that by providing knowledge in an optimized order,
+reinforcing knowledge with hands-on, feedback driven practice, and providing
+space for discussion, you will learn quickly. Our goal is to provide the
+right materials, support and structure _you_ need to discover your own love for
+the code.
+
+## The Learn Community
+
+We don't believe in learning alone. As you make progress, expect to bump into
+other learners just like you, ready and willing to help each other succeed.
+Together, we can go further than we could ever go alone. We expect everyone to
+be friendly, respectful, helpful, and nice.
+
+If you get stuck following the instructions, ask! If you get stuck getting a
+coding concept, ask! Instructors and peers from the community will be glad to
+help. Equally, if you find someone asking a question that you can provide
+insight on, please do! One of the best ways to confirm your own understanding of
+a concept is to try and help someone else understand it.
 
 ## Conclusion
 
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
+You're just getting started, and we're happy you're here. To proceed to the next
+lesson, click "Next" at the bottom of the page.
 
-## Resources
-
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
-
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
-
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+Happy Learning!

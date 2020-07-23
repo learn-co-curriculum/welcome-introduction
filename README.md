@@ -47,7 +47,7 @@ _courses_. Each course is a collection of many lessons, organized into topics
 You can access the courses available to you by clicking **Course** in the
 navigation on the left.
 
-![course navigation](images/canvas-navigation.png)
+<img class="center image" style="height: 300px" src="images/canvas-navigation.png" alt="navigate to a course"/>
 
 Clicking on a course will display that course's home page. In this welcome
 course, _this_ lesson is set as the home page.
@@ -55,7 +55,7 @@ course, _this_ lesson is set as the home page.
 To access the rest of this course's content, click **Modules** in the navigation
 just to the left of this reading.
 
-![navigate to modules page](images/course-navigation.png)
+<img class="center image" src="images/course-navigation.png" alt="navigate to modules page"/>
 
 The **Modules** page displays all course content available to you. Note that
 depending on which type of course you're taking, some content may only be made
@@ -74,7 +74,7 @@ to continue to the next lesson.
 As you work through the content, you'll be able to see which lessons and modules
 you've completed, started, and not started.
 
-![completion status icons](images/module-progress.png)
+<img class="center image" style="height: 300px" src="images/module-progress.png" alt="completion status icons"/>
 
 A check mark indicates you've completed that lesson. An open circle indicates a
 lesson you have not started yet. A circle with a dash inside indicates a lesson

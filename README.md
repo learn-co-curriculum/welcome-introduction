@@ -90,15 +90,15 @@ this lesson. Here are the main lesson types:
 - Assignments: These are lessons where action _is_ needed. Assignments can be
   many things. Some assignments will include tests for code, sometimes refered
   to as _labs_. Other assignments may just ask you to code along and apply a
-  concept as you are learning it. We will talk more about assignments in the
-  next lesson.
+  concept as you are learning it.
 - Quizzes: These are included to assess your knowledge of the topics discussed.
   Quizzes will typically be placed at the end of a topic.
 
-
+Portfolio projects, assessments and blog submissions will all be available in
+Canvas as assignments, since they all require work to be submitted. We will
+talk more about assignments in the next lesson.
 
 ## Conclusion
 
-You're just getting started, and we're happy you're here.
-
-Happy Learning!
+You're just getting started, and we're happy you're here. Continue on and happy
+learning!

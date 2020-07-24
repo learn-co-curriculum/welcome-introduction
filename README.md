@@ -8,10 +8,10 @@ Engineer. It's going to be harder, and more rewarding than any other learning
 experience you've ever had, we promise, but we're thrilled that you've joined
 our community. Let's learn together.
 
-Before diving in, we need to briefly go over a few things. In the next few
-lessons, we'll introduce some of the features of this learning platform and get
-your personal computer set up for the rest of the course (what we refer to as
-_'your local environment'_).
+Before diving in, we need to briefly go over a few things. In the next lessons,
+we'll get your personal computer set up (what we refer to as _'your local
+environment'_) and walk through the process of completing and submitting
+coursework.
 
 In this lesson, though, we'd like about Flatiron School's philosophy and the
 structure of this course.
@@ -25,24 +25,11 @@ space for discussion, you will learn quickly. Our goal is to provide the
 right materials, support and structure _you_ need to discover your own love for
 the code.
 
-## The Learn Community
-
-We don't believe in learning alone. As you make progress, expect to bump into
-other learners just like you, ready and willing to help each other succeed.
-Together, we can go further than we could ever go alone. We expect everyone to
-be friendly, respectful, helpful, and nice.
-
-If you get stuck following the instructions, ask! If you get stuck getting a
-coding concept, ask! Instructors and peers from the community will be glad to
-help. Equally, if you find someone asking a question that you can provide
-insight on, please do! One of the best ways to confirm your own understanding of
-a concept is to try and help someone else understand it.
-
 ## Accessing Course Content
 
-In Canvas, our Software Engineering curriculum is divided into a series of
-_courses_. Each course is a collection of many lessons, organized into topics
-(referred to as _modules_ in Canvas).
+Our Software Engineering curriculum is divided into a series of _courses_. Each
+course is a collection of many lessons, organized into topics (referred to as
+_modules_ in Canvas).
 
 You can access the courses available to you by clicking **Course** in the
 navigation on the left.
@@ -82,8 +69,8 @@ you've started, but haven't completed yet.
 
 ### Lesson Types
 
-There are a few types of lessons in Canvas. The most basic is a **Page**, like
-this lesson. Here are the main lesson types:
+There are a few types of lessons you'll see in this Software Engineering course.
+The most basic is a **Page**, like this lesson. Here are the main lesson types:
 
 - Pages: These contain content to read on a particular subject. No action
   needed, just reading and learning.

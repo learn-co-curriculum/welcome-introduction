@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Welcome to Flatiron School's Software Engineering course! Over the next 700-1000
-hours you will learn everything you need to know to get started as a Software
+Welcome to Flatiron School's Software Engineering course! Over the next few months 
+you will learn everything you need to know to get started as a Software
 Engineer. It's going to be harder, and more rewarding than any other learning
 experience you've ever had, we promise, but we're thrilled that you've joined
 our community. Let's learn together.
@@ -26,7 +26,7 @@ navigation on the left.
 
 <img class="center image" style="height: 300px" src="images/canvas-navigation.png" alt="navigate to a course"/>
 
-Clicking on a course will display that course's home page. To access the rest of
+Clicking on a course will display that course's front page. To access the rest of
 this course's content, click **Modules** in the navigation just to the left of
 this reading.
 

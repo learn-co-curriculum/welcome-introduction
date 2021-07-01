@@ -13,7 +13,7 @@ lessons, we'll get your personal computer set up (what we refer to as _'your
 local environment'_) and walk through the process of completing and submitting
 coursework.
 
-In this lesson, though, we'd like about the structure of this course.
+In this lesson, though, we'd like to talk about the structure of this course.
 
 ## Accessing Software Engineering Course Content
 

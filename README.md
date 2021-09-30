@@ -24,13 +24,13 @@ _modules_ in Canvas).
 You can access the courses available to you by clicking **Courses** in the
 navigation on the left.
 
-[Navigate to Courses](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-nav.png)
+![Navigate to Courses](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-nav.png)
 
 Clicking on a course will display that course's front page. To access the rest of
 this course's content, click **Modules** in the navigation just to the left of
 this reading.
 
-[Navigate to Modules](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-module.png)
+![Navigate to Modules](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-module.png)
 
 The **Modules** page displays all course content available to you. Note that
 depending on which type of course you're taking, some content may only be made
@@ -49,7 +49,7 @@ to continue to the next lesson.
 As you work through the content, you'll be able to see which lessons and modules
 you've completed, started, and not started.
 
-[Completion status icons](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/module-progress.png)
+![Completion status icons](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/module-progress.png)
 
 A check mark indicates you've completed that lesson. An open circle indicates a
 lesson you have not started yet. A circle with a dash inside indicates a lesson

@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Welcome to Flatiron School's Software Engineering course! Over the next few months 
-you will learn everything you need to know to get started as a Software
+Welcome to Flatiron School's Software Engineering course! Over the next few
+months you will learn everything you need to know to get started as a Software
 Engineer. It's going to be harder, and more rewarding than any other learning
 experience you've ever had, we promise, but we're thrilled that you've joined
 our community. Let's learn together.
@@ -21,16 +21,16 @@ Our Software Engineering curriculum is divided into a series of _courses_. Each
 course is a collection of many lessons, organized into topics (referred to as
 _modules_ in Canvas).
 
-You can access the courses available to you by clicking **Course** in the
+You can access the courses available to you by clicking **Courses** in the
 navigation on the left.
 
-<img class="center image" style="height: 300px" src="images/canvas-navigation.png" alt="navigate to a course"/>
+[Navigate to Courses](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-nav.png)
 
 Clicking on a course will display that course's front page. To access the rest of
 this course's content, click **Modules** in the navigation just to the left of
 this reading.
 
-<img class="center image" src="images/course-navigation.png" alt="navigate to modules page"/>
+[Navigate to Modules](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/canvas-module.png)
 
 The **Modules** page displays all course content available to you. Note that
 depending on which type of course you're taking, some content may only be made
@@ -44,17 +44,17 @@ lesson in the order provided. Use the **Modules** page to go back and review
 earlier content if needed. When you complete a lesson, use the **Next** button
 to continue to the next lesson.
 
-![next button](images/next-button.png)
+![Next button](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/next-button.png)
 
 As you work through the content, you'll be able to see which lessons and modules
 you've completed, started, and not started.
 
-<img class="center image" style="height: 300px" src="images/module-progress.png" alt="completion status icons"/>
+[Completion status icons](https://curriculum-content.s3.amazonaws.com/homeroom/welcome-introduction/module-progress.png)
 
 A check mark indicates you've completed that lesson. An open circle indicates a
 lesson you have not started yet. A circle with a dash inside indicates a lesson
 you've started, but haven't completed yet. If you've started work on a module,
-it will display a cirlce with a dash inside until all of the module's required
+it will display a circle with a dash inside until all of the module's required
 lessons are completed.
 
 ### Lesson Types
